@@ -4,13 +4,6 @@ use std::env;
 use std::fs::File;
 use std::io::{self, BufRead, Write};
 
-/*
- * Complete the 'formingMagicSquare' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts 2D_INTEGER_ARRAY s as parameter.
- */
-
 fn formingMagicSquare(s: &[Vec<i32>]) -> i32 {
     let target_sum = 15;
     let mut input_square = Vec::with_capacity(9);

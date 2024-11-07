@@ -8,3 +8,7 @@ mod solve_me_first;
 mod bon_appetit;
 mod magic_square_forming;
 mod staircase;
+mod breaking_records;
+mod migratory_birds;
+mod grading;
+mod time_conversion;
