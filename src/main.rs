@@ -8,6 +8,9 @@ mod practic10;
 mod practic11;
 mod practic12;
 mod practic13;
+mod practic14;
+mod practic15;
+mod practic16;
 
 fn main() {
 
