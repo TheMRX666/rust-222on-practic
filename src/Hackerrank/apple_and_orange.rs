@@ -43,7 +43,6 @@ fn main() {
     let apples = vec![-2, 2, 1];
     let oranges = vec![5, -6];
 
-
     let fruitCounter = Counter::new(s,t,a,b);
     fruitCounter.get_result(&apples, &oranges);
 }
