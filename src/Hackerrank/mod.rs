@@ -5,3 +5,6 @@ mod mini_max_sum;
 mod plus_minus;
 mod day_of_programmer;
 mod solve_me_first;
+mod bon_appetit;
+mod magic_square_forming;
+mod staircase;
